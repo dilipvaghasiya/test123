@@ -1,6 +1,6 @@
 version: 0.0
 os: windows
 files:
-  - source: source-file-location-1
-    destination: destination-file-location-1
+  - source: .\test.html
+    destination: C:\inetpub\wwwroot\test
 file_exists_behavior: OVERWRITE
